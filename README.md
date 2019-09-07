@@ -1,2 +1,5 @@
-# Greyhound-Schedules
-Scraped Departure Times of Greyhound Bus
+# greyhound-bus-scraper
+Scrape greyhound bus departures
+
+Requires Python3
+Must have chromedriver in PATH
